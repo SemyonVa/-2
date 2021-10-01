@@ -1,0 +1,2 @@
+n=float(input('введите n'))
+print('s='+str((1+n)/2*n))
